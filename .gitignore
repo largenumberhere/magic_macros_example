@@ -1,0 +1,7 @@
+/target
+/Cargo.lock
+/.idea
+
+/project_proc_macros/target
+/project_proc_macros/.idea
+/project_proc_macros/Cargo.lock

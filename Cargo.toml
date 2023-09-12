@@ -1,0 +1,10 @@
+[package]
+name = "macro_magic_testing"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+macro_magic = "0.4.2"
+project_proc_macros = {path = "project_proc_macros"}
